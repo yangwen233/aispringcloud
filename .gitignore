@@ -1,0 +1,7 @@
+# Project exclude paths
+/eurekaclient/target/
+/eurekaserver/target/
+/feign2/target/
+/nativeconfigclient/target/
+/target/
+/zuul/target/
